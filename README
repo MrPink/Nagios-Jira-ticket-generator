@@ -1,0 +1,3 @@
+get Nagios to create Jira tickets on notifications 
+
+requires the jira4r gem
